@@ -69,6 +69,11 @@ python train.py "ANTM - PT Aneka Tambang Tbk"
 
 ---
 
+## 🖥️ Presentation
+(https://canva.link/uvhpt94ra3yrhk6)
+
+---
+
 ## ⚠️ Disclaimer
 
 Aplikasi ini hanya untuk tujuan edukasi. Jangan gunakan prediksi ini sebagai satu-satunya dasar keputusan investasi.
